@@ -1,0 +1,8 @@
+deepface
+tf-keras
+mediapipe
+opencv-python
+numpy
+pillow
+mrz
+easyocr

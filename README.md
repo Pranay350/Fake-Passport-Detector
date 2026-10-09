@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Fake Identity & Document Screening System
 
 Smart India Hackathon 2026 — Problem Statement **26188**, SSB Police-II Division.
@@ -389,3 +390,6 @@ ICAO Doc 9303.
 
 The passport template is a blank specimen from Wikimedia Commons. No real identity
 document, and no real person's biometric data, is used anywhere in this repository.
+=======
+# Fake-Passport-Detector
+>>>>>>> 542738e80d9df68d72cc82d3f927c541ff1d9bde
